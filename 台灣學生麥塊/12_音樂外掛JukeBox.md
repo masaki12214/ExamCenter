@@ -1,4 +1,4 @@
-# 04 — 音樂外掛（`/music` 指令所屬）
+# 12 · 音樂外掛 JukeBox（/music 指令）
 
 - **問題**：查「music 是什麼外掛」
 - **來源**：`jukebox-1.20.15.jar` 內 `plugin.yml`、`plugins/JukeBox/config.yml`、SpigotMC 資源頁
